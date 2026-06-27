@@ -1,0 +1,22 @@
+# Node dependencies & builds
+node_modules/
+dist/
+frontend/dist/
+frontend/node_modules/
+.eslintcache
+
+# Python compilation & environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.env
+
+# System & IDE files
+.DS_Store
+.gemini/
+.vscode/
+.idea/

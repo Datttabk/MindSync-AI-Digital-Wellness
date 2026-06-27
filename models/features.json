@@ -1,0 +1,42 @@
+{
+  "features": [
+    "Age",
+    "Avg_Daily_Usage_Hours",
+    "Sleep_Hours_Per_Night",
+    "Mental_Health_Score",
+    "Conflicts_Over_Social_Media",
+    "Gender_Female",
+    "Gender_Male",
+    "Academic_Level_Graduate",
+    "Academic_Level_High School",
+    "Academic_Level_Undergraduate",
+    "Most_Used_Platform_Facebook",
+    "Most_Used_Platform_Instagram",
+    "Most_Used_Platform_KakaoTalk",
+    "Most_Used_Platform_LINE",
+    "Most_Used_Platform_LinkedIn",
+    "Most_Used_Platform_Snapchat",
+    "Most_Used_Platform_TikTok",
+    "Most_Used_Platform_Twitter",
+    "Most_Used_Platform_VKontakte",
+    "Most_Used_Platform_WeChat",
+    "Most_Used_Platform_WhatsApp",
+    "Most_Used_Platform_YouTube",
+    "Relationship_Status_Complicated",
+    "Relationship_Status_In Relationship",
+    "Relationship_Status_Single"
+  ],
+  "num_cols": [
+    "Age",
+    "Avg_Daily_Usage_Hours",
+    "Sleep_Hours_Per_Night",
+    "Mental_Health_Score",
+    "Conflicts_Over_Social_Media"
+  ],
+  "cat_cols": [
+    "Gender",
+    "Academic_Level",
+    "Most_Used_Platform",
+    "Relationship_Status"
+  ]
+}

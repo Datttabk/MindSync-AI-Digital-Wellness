@@ -123,3 +123,4 @@ The React hot-reload Vite server runs on `http://localhost:5173`.
 - **ML & Data Pipeline Engineer:** AI Software Engineer Agent
 - **Backend REST Engineer:** AI Software Engineer Agent
 - **Frontend UI Integrator:** AI Software Engineer Agent
+# MindSync-AI-Digital-Wellness
